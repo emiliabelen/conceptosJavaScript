@@ -14,3 +14,10 @@ document.write(precio * 380 );
 
 //mostrar en consola
 console.log(precio * 380)
+
+//mostrar una ventana emergente
+alert("hola mundo")
+
+//otra ventana emergente pero q el uss ingresa un dato y lo almacena
+let num=prompt("ingrese un numero");
+
